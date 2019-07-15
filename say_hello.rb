@@ -5,5 +5,5 @@ end
 
 
 def greeting
-  puts "Hello, #{name}"
+  puts "Hello Ruby Programmer!"
 end
