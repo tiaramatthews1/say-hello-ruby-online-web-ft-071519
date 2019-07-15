@@ -3,7 +3,7 @@ def say_hello(name)
   puts "Hello, #{name}!"
 end
 
-greeting 
+greeting("Kent Beck")
 
 def greeting(name = "Ruby programmer")
   puts "Hello, #{name}"
